@@ -21,6 +21,16 @@ Use AJAX to do GET, PUT, POST, DELETE request.<br/>
 Http calls like GET, PUT, POST, DELETE through Fetch API.<br/>
 Cover Promise, Async-Await, arrow function.
 
+- **Error Handling and Regular Expresion** -
+It includes code to write regular expression and regular expression's method in JS.
+how to handles error in JS and their methods.
+
+- **JSPatterns** -
+Explained different types of patters available in JS like Standard Module, Revealing Module, Singleton, Factory, Observer, Mediator and State.
+
+- **Iterators and Generators** -
+Explained ES6 latest concepts like Iterator, Generators, Symbols, Destructuring, Maps and Sets.
+
 ## TaskList
 Project where user can add, delete, filter a list. Local storage is used to store the list.
 
