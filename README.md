@@ -2,6 +2,7 @@
 
 JavaScript basic concepts
 Udemy course Mordern JavaScript from the beginning by Brad Traversy
+Detail document is available in `JavaScript.docx`.
 
 ## Book List
 Application where user can add book in local storage and can delete it from local storage with ES6.
