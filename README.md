@@ -1,7 +1,7 @@
 # JavaScript
 
-JavaScript basic concepts
-Udemy course Mordern JavaScript from the beginning by Brad Traversy
+JavaScript basic concepts.<br>
+Udemy course Mordern JavaScript from the beginning by Brad Traversy.<br>
 Detail document is available in `JavaScript.docx`.
 
 ## Book List
